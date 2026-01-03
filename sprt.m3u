@@ -4,7 +4,10 @@
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10", ANTV SPORTS 
+#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10", ANTV SPORTS 
+https://tv.casindo.org/hls/45/45.m3u8
+
+#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-m8n9ZK6Dbrs4i5ZBftjXn3t6-AmfJYUVMoJuxGzxIpLf7qdc5vFL7wJ&s=10", ANTV SPORTS 
 https://tv.casindo.org/hls/45/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png", group-title="MOLA", MOLA EVENT 2
