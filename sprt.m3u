@@ -3,7 +3,9 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/3
 #EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="https://tv.cic.net.id/uploads/TRANS7.png" ,TRANS 7
 http://iptv.kilas7.com:80/kaukia/asdfrewq/4
 #EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="https://tv.cic.net.id/uploads/TRANS7.png" ,OKEY TV
-https://dua.rtdua.workers.dev/smil:okey/manifest.mpd
+https://dua.rtdua.workers.dev/smil:okey/manifest.mpd 
+#EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="https://tv.cic.net.id/uploads/TRANS7.png" ,OKEY TV
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
 #EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="https://tv.cic.net.id/uploads/TVONE_TV.png" ,TV ONE
 http://iptv.kilas7.com:80/kaukia/asdfrewq/5
 #EXTINF:-1 group-title="@NASIONAL DIGITAL" tvg-logo="https://tv.cic.net.id/uploads/METRO.png" ,METRO TV
