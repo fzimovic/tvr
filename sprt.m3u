@@ -935,15 +935,6 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=videoland-sports-channel
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1 
-#EXTVLCOPT:http-referrer=https://ok.ru/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 #EXTVLCOPT:http-find=mycdn;m3u8 
-https://ok.ru/live/216342154
-
-#EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10", ANTV SPORTS 
 https://tv.casindo.org/hls/45/45.m3u8
 
@@ -952,31 +943,6 @@ https://tv.casindo.org/hls/45/45.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-m8n9ZK6Dbrs4i5ZBftjXn3t6-AmfJYUVMoJuxGzxIpLf7qdc5vFL7wJ&s=10", ANTV SPORTS 
 https://cdnw-pull.tvri.go.id/stream/Friendly_Match_2026/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png", group-title="MOLA", MOLA EVENT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
-
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png", group-title="MOLA", MOLA EVENT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-https://live.mocdn.tv/out/v1/b717678459734384aaa98316895d5a2a/manifest_L1.mpd
-
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png", group-title="MOLA", MOLA EVENT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-https://live.mocdn.tv/out/v1/a2f7dfe1378940dfa09879b845d07ca1/manifest_L1.mpd
-
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png", group-title="MOLA", MOLA EVENT 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
-
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png", group-title="MOLA", MOLA EVENT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1075,8 +1041,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ATV Suriname
 https://ts.suricloud.com/atv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" @Relax",ID~SPOTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Football
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",ID~Sport~1
@@ -1164,22 +1128,6 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_720p/ch
 https://api.vidio.com/videos/8124721/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjgxMjQ3MjEiLCJjcmVhdGVkX2F0IjoxNzQxMjc0NDQ0LCJleHRfZHVyYXRpb24iOjYwMH0.-58cwX4y2Cwv2s5Qo4a8DrbNXya2Sx4I-hBkDbtTr1o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Liga 1 2022/23",PSS Sleman VS Bali United
 https://token-media-vidio-com.vidiocdn.net/uploads/7459589/edge-cache-token=Expires=1741111919&KeyName=tokenized-media-vidio-com-keyset&Signature=ZUyg9SumohNHlltC7aM08O2a8meWH5X9gxokoYpp1e_Emq_qtyQI6dBZfeJI4KA-dds5Z6lHlFQqMhTTTMhoCw==/ets-playlist-1200-e35b6.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="live",Kompas TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="live",Kompas TV (Dens)
-https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="live",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1   tvg-logo="" group-title="live",CBS Golazo
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd/variant.m3u8?x-plex-token=ksohQK8QF8CDcE7TjWrs&x-plex-advertising-identifier=&x-plex-client-identifier=vo5w2vhcgnpol9amib56fmsi&x-plex-playback-id=p_01356c9f-1274-4545-8df1-bd2701a445e6&x-plex-playback-session-id=55af72ac-9276-498f-8a87-0fd0799a5a2a&x-plex-session-id=2b77bb93-74c5-49e1-8324-1c489176f9e8&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=130.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1883x941%2C1883x1059&x-plex-device-vendor=&x-plex-version=4.145.1&x-plex-provider-streaming-start=1740775818&url=47d8f0ad0131c6a23ed832c8c4c7254a-6994e1dd134c0ecbfb4eec15833d74e59302b9ad32b6fc8f0c0b1532396dfd761dd3f643b68b00d09fe07b61160f1e5cb2a377d5f44e0316a916e70e21d40f35fa69375b5481b519970d5040cc7a0ea128aecd51e1d16fb8dd55af86b9d1448fe2cadecf337fd40d071694cbbb7db345175ffffa8b04bf3e882eaf07e2ef42eecb698bf4b46a8b4f748464f02b35bdca84f28a30092c6360a58cd1dab0db4763cde6d352d60b8fc81c36b4c988f6f6c8b2f6071d5cdc5d24e7ca0902aeb2e50a25fbf3ac3a3fba9abbfef824621ec230554d29e761916616071256c0f25307847bde7d5028471d0a0ca0acc7858ccf37cd2db5cfa0824402a7dc55fb4d79ff68dbb32ebafe44da314c298d01e4da04ed204b772fd7e86fa6ab0adf71a15d7667146f20849cfcaba0da89c252ab67abb559db938cfa2f04d10e4bac4072b8058722b3154a737be20d4f057240365dd9044b47f8caf5b393be61d4946b5c54eb9d12d4c95875d6778478152c7984861c1dc3e9f0ab046086ce4b34d9a1389e1a20b3a88e0a8c6e9ee3b7a61b97a8f5d3b9f0c61ce3ac4b7461f78ff21cad2a66673314c8e0a9bede86b1aa04ae6ba60c3cb6aba3d410607d0cd4f18d92599d306879495a94217ab360951fbf509106a299567cd2b2dbc0ceb936e9b7421531ef887740be762ee09da6b1cb7f3c9ecf5ecb
-#EXTINF:-1 group-title="live" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/pctv.png",Peacock TV Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sports Canais",CANAL+SPORT HD
 http://185.236.229.62:9981/play/a04c
